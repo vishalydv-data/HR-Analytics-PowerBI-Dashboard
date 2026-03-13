@@ -6,10 +6,9 @@ This project focuses on analyzing employee attrition and workforce trends using 
 ## Objective
 Help organizations improve employee performance and retention by identifying patterns in attrition, salary, job roles and demographics.
 
-## Dashboard Preview
+## 📊 HR Analytics Dashboard Preview
 
-![Dashboard](https://github.com/vishalydv-data/HR-Analytics-PowerBI-Dashboard/commit/87ed9d7da9dc1370e17e45e78c68f52e53bcdba4)
-
+![HR Analytics Dashboard](https://raw.githubusercontent.com/vishalydv-data/HR-Analytics-PowerBI-Dashboard/main/dashboard.png)
 ## Key Metrics
 
 - Total Employees: 1470
